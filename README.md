@@ -15,7 +15,7 @@ A keyword extractor and text summarizer
 
 <a name="description" \>
 ###  Description
-Both the keyword extractor and text summarizer are based on the TextRank algorithm described in <a href="http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf">. TextRank: Bringing Order into Texts<a>
+Both the keyword extractor and text summarizer are based on the TextRank algorithm described in <a href="http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf">TextRank: Bringing Order into Texts<a>. 
 The text summarizer extracts the most important sentences of a text. 
 <a name="pagerank" \>
 ###  PageRank
