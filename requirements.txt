@@ -1,0 +1,2 @@
+networkx == 1.10.egg
+nltk == 3.0.5.egg
