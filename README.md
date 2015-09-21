@@ -15,7 +15,7 @@ A keyword extractor and text summarizer
 
 <a name="description" \>
 ###  Description
-Both the keyword extractor and text summarizer are based on the TextRank algorithm described in <a href="http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf">TextRank: Bringing Order into Texts<a>
+Both the keyword extractor and text summarizer are based on the TextRank algorithm described in <a href="http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf">. TextRank: Bringing Order into Texts<a>
 The text summarizer extracts the most important sentences of a text. 
 <a name="pagerank" \>
 ###  PageRank
@@ -24,7 +24,7 @@ includes a native implementation of PageRank.
 
 <a name="lemma" \>
 ###  Lemmatization/Stemming
-There were some ambiguities about the exact implementation of TextRank, especially on the role of reducing words.
+There were some ambiguities about the exact implementation of TextRank, especially on the role of word reduction.
 In TextrankPy:
 
 1. It lemmatizes/stems words before adding them to the graph and creating the edges
